@@ -16,7 +16,7 @@
 
 <p align="center">
 <a title=Github href= "https://github.com/dailylifeassysadmin/">
-    <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=#4bb98a" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=4bb98a" width="50" height="50"/>
   </a>
   <a title=LinkedIn href= "https://www.linkedin.com/in/raviprakashtripathi/">
     <img src="https://img.icons8.com/?size=100&id=447&format=png&color=FF0000" width="50" height="50"/>
