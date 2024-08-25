@@ -16,22 +16,22 @@
 
 <p align="center">
 <a title=Github href= "https://github.com/dailylifeassysadmin/">
-    <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=4bb98a" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=ffb100" width="50" height="50"/>
   </a>
   <a title=LinkedIn href= "https://www.linkedin.com/in/raviprakashtripathi/">
-    <img src="https://img.icons8.com/?size=100&id=447&format=png&color=4bb98a" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=447&format=png&color=ffb100" width="50" height="50"/>
   </a>
   <!--- <a href= "https://twitter.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
   </a> --->
   <a title=Website href= "https://www.dailylifeassysadmin.in">
-    <img src="https://img.icons8.com/?size=100&id=1349&format=png&color=4bb98a" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=1349&format=png&color=ffb100" width="50" height="50"/>
   </a>
   <a title=Blog href="https://dailylifeassysadmin.blogspot.com/">
-    <img src="https://img.icons8.com/?size=100&id=26072&format=png&color=4bb98a" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=26072&format=png&color=ffb100" width="50" height="50"/>
   </a>
   <a title=Resume href="https://www.dailylifeassysadmin.in/aboutme">
-    <img alt="Resume" src="https://img.icons8.com/?size=100&id=23877&format=png&color=4bb98a" width="50" height="50"/>
+    <img alt="Resume" src="https://img.icons8.com/?size=100&id=23877&format=png&color=ffb100" width="50" height="50"/>
   </a>
   <!--- <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/>
