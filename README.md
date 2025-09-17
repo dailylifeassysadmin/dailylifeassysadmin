@@ -20,7 +20,7 @@
 <!--- Social media Link --->
 
 <p align="center" font-sizze="25px">
-<strong>Get in touch with me 🤝🤝 ....</strong>
+<strong>Get in touch with me 🤝🤝 ..</strong>
 
 <p align="center">
 <a title=Github href= "https://github.com/dailylifeassysadmin/">
