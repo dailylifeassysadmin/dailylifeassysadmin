@@ -2,8 +2,8 @@
 <!--- https://raw.githubusercontent.com/dailylifeassysadmin/dailylifeassysadmin/main/banner/banner.png --->
 ---
 <img src="https://github.com/dailylifeassysadmin/dailylifeassysadmin/blob/main/banner/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 300px; " />
-<h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">A passionate and hard working Linux system enginner from India :india:</h3>
+<h1 align="center">Hi 👋, I'm Ravi T.</h1>
+<h3 align="center">A passionate and hard working Linux System Enginner. DevOps and Cloud Engineer from India :india: </h3>
 
 - 👋 Hi, I’m @dailylifeassysadmin
 - 👀 I’m interested in everything about Computer, from Hacking to Web Technologies, to designing system, I mean everything...
@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning Advance Python and Shell Scripting ...
 - ❤️ I love Open Source Software...
 - 🐧 Linux is my crush
+- 💞️ I’m looking to collaborate on DevOps, Advance Linux, OS Development, Cloud and CI/CD.
 - 📫 You can reach out to me via below mentioned link ...
 - 👋 [Interview Questions and Answers](https://github.com/dailylifeassysadmin/dailylifeassysadmin.github.io/blob/main/faq.md)
 - 👀 [Linux Cheatsheet](https://github.com/dailylifeassysadmin/dailylifeassysadmin.github.io/blob/main/Cheatsheet.md)
